@@ -11,4 +11,6 @@ A lightweight Python script that simulates basic protection against DDoS attacks
 ## 🚀 How to Run
 ```bash
 python detector.py
-This tool is make by https.dishant.ceh
+```
+This tool is Made by https.dishant.ceh
+
